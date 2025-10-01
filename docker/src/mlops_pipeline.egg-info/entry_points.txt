@@ -1,0 +1,2 @@
+[console_scripts]
+mlops-train = pipeline.pipeline:cli

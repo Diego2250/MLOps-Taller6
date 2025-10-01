@@ -1,0 +1,3 @@
+[console_scripts]
+pipeline = pipeline.pipeline:cli
+pipeline-ml-train = pipeline.pipeline:cli

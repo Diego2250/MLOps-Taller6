@@ -1,0 +1,11 @@
+MANIFEST.in
+pyproject.toml
+requirements.txt
+src/mlops_pipeline.egg-info/PKG-INFO
+src/mlops_pipeline.egg-info/SOURCES.txt
+src/mlops_pipeline.egg-info/dependency_links.txt
+src/mlops_pipeline.egg-info/entry_points.txt
+src/mlops_pipeline.egg-info/requires.txt
+src/mlops_pipeline.egg-info/top_level.txt
+src/pipeline/__init__.py
+src/pipeline/pipeline.py

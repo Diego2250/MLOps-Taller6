@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mlops-pipeline"
+version = "0.1.0"
+description = "Pipeline de sklearn con CLI (taller 4)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.26",
+  "pandas>=2.2",
+  "scikit-learn>=1.5",
+  "joblib>=1.4"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.scripts]
+mlops-train = "pipeline.pipeline:cli"
