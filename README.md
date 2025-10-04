@@ -1,4 +1,4 @@
-# 🚀 Taller 6 – Terraform + Docker+
+# 🚀 Taller 6 – Terraform + Docker
 
 Este laboratorio implementa una arquitectura de datos utilizando *Terraform* para orquestar contenedores Docker. Se diseñó la separación entre procesos de *Ingeniería de Datos (ETL)* y procesos de *Ciencia de Datos (ML API)*.  
 
