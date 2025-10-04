@@ -6,6 +6,7 @@ Este laboratorio implementa una arquitectura de datos utilizando *Terraform* par
 - Angel Castellanos
 - Sara Echeverría
 - Diego Morales
+- Enlace al repositorio: https://github.com/Diego2250/MLOps-Taller6
 ---
 
 ## 📌 1. Documentación consultada
